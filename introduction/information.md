@@ -4,6 +4,8 @@
 ## 网站
 
 - 官方网站 [kafka.apache.org](http://kafka.apache.org/)
+- [git repository@apache](git://git.apache.org/kafka.git)
+- [mirror@github](https://github.com/apache/kafka)
 
 ## 文档
 

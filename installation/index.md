@@ -22,7 +22,7 @@ export PATH=$PATH:$KAFKA_HOME/bin
 以最简单的方式启动 kafka 并启动 producer 和 consumer：
 
 ```bash
-cd /home/sky/work/soft/kafka
+cd /home/sky/work/soft/kafka/bin
 
 # start zookeeper
 zookeeper-server-start.sh config/zookeeper.properties
