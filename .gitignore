@@ -1,7 +1,8 @@
 .*
 !.gitignore
-_book
+public/
+resources/
+node_modules/
 node_modules
-assets/images/uml/*/*.uml
-assets/images/uml/*/*.uml.sum
-
+themes/
+init_docsy.sh

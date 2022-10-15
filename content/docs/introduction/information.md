@@ -1,5 +1,13 @@
-资料收集整理
-==========
+---
+title: "资料收集"
+linkTitle: "资料收集"
+date: 2021-01-29
+weight: 900
+description: >
+  收集 kafka 的各种资料
+---
+
+
 
 ## 网站
 
@@ -19,6 +27,3 @@
 - [LinkedIn —— Apache Kafka 的伸缩扩展能力](https://www.oschina.net/translate/running-kafka-scale): 英文原文 [Running Kafka At Scale](https://engineering.linkedin.com/kafka/running-kafka-scale)
 - [Kafka深度解析](http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/)
 - [Kafka设计解析](http://www.jasongj.com/2015/03/10/KafkaColumn1/)
-
-
-
